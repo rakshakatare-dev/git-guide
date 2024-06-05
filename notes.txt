@@ -1,0 +1,16 @@
+Command and its usage
+
+ls : used to check how many files/directories are exists in that particular folder
+mkdir <DirectoryName>           : Used to create directory
+cd <DirectoryName>              : to switch/change directory
+clear                           : to clear the terminal
+rm -rf <FileName>               : to delete file
+git init                        : to initialize a git repository
+ls -a                           : to check any hidden files
+git status                      : to check uncommit/untracked files
+git add <FileName>              : to add specific untracked file/directory in staging area to maintain its history
+git add .                       : to add all the untracked files/directories in staging area to maintain its history
+git commit -m <Message>         : to commit all staging area changes
+vi <FileName>                   : to write inside a file.
+cat <FileName>                  : to check the content inside a specific file.
+git restore --staged <FileName> : to remove specific file from staged area.
