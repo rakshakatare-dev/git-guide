@@ -18,3 +18,4 @@ git log                         : to check the history of repository.
 git reset <CommitId>            : to remove all above given commits mafe after that commit id.
 git stash                       : to keep or put changes back staged without maintaining its hostory or commit.
 git stash pop                   : to bring all back staged changes back to in staging area.
+git stash clear                 : to clear/delete permanently all back staged store change that do not created any history or commit.
