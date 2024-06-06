@@ -17,3 +17,4 @@ git restore --staged <FileName> : to remove specific file from staged area.
 git log                         : to check the history of repository.
 git reset <CommitId>            : to remove all above given commits mafe after that commit id.
 git stash                       : to keep or put changes back staged without maintaining its hostory or commit.
+git stash pop                   : to bring all back staged changes back to in staging area.
