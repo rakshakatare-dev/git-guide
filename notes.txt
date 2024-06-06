@@ -19,3 +19,5 @@ git reset <CommitId>            : to remove all above given commits safe after t
 git stash                       : to keep or put changes back staged without maintaining its history or commit.
 git stash pop                   : to bring all back staged changes back to in staging area.
 git stash clear                 : to clear/delete permanently all back staged store change that do not created any history or commit.
+git remote add origin<URL>      : to attahed a central git repository url to our local project.
+git remote -v                   : to check all the attached url with the local project.
